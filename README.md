@@ -1,2 +1,2 @@
 # deep-dig
-Tackling complex video integration challenges
+Tackling complex online video integration challenges
